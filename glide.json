@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Text Line Formatter",
+    "description": "Takes a JSON array of text strings and outputs each text string on a separate line, removing quotes.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "jsonInput",
+        "displayName": "JSON Input",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
